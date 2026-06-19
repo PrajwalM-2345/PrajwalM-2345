@@ -1,111 +1,126 @@
-# 🚀 Tech That I Know
+<h1 align="center">Hi 👋, I'm Prajwal M</h1>
 
-## 📚 Core Computer Science
+<h3 align="center">
+Systems Programming • Linux Engineering • Distributed Systems • AI Infrastructure
+</h3>
+
+<p align="center">
+Building from Kernel to Cloud ☁️ | From Compiler to AI 🤖
+</p>
+
+---
+
+# 🚀 Current Mission
 
 ![DSA](https://img.shields.io/badge/DSA-24292E?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
-![OS](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge)
-![CN](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge)
-![COA](https://img.shields.io/badge/COA-FF6F00?style=for-the-badge)
-![System\_Design](https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-00599C?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-512BD4?style=for-the-badge)
+![AI Infrastructure](https://img.shields.io/badge/AI_Infrastructure-FF6F00?style=for-the-badge)
 
 ---
 
-## 💻 Languages
+# 🐧 Linux Ecosystem
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+## Daily Drivers
+
+![Linux Mint 22.3 Cinnamon](https://img.shields.io/badge/Linux_Mint_22.3_Cinnamon-87CF3E?style=for-the-badge\&logo=linuxmint\&logoColor=white)
+
+![macOS Sequoia](https://img.shields.io/badge/macOS_Sequoia-000000?style=for-the-badge\&logo=apple\&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
 ---
 
-## 🖥️ Systems Programming
+## Linux Distributions Explored
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Peppermint OS](https://img.shields.io/badge/Peppermint_OS-DA291C?style=for-the-badge)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge\&logo=debian\&logoColor=white)
+
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge\&logo=linuxmint\&logoColor=white)
+
+![Linux Mint XFCE](https://img.shields.io/badge/Linux_Mint_XFCE-87CF3E?style=for-the-badge)
+
+![Linux Mint MATE](https://img.shields.io/badge/Linux_Mint_MATE-87CF3E?style=for-the-badge)
+
+![Linux Mint Cinnamon](https://img.shields.io/badge/Linux_Mint_Cinnamon-87CF3E?style=for-the-badge)
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge\&logo=archlinux\&logoColor=white)
+
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge\&logo=fedora\&logoColor=white)
+
+![Red Hat Enterprise Linux](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge\&logo=redhat\&logoColor=white)
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+
+---
+
+# ⚙️ Systems Engineering Focus
+
+![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge)
+
 ![System Programming](https://img.shields.io/badge/System_Programming-000000?style=for-the-badge)
-![Sockets](https://img.shields.io/badge/Sockets-0A66C2?style=for-the-badge)
-![Threads](https://img.shields.io/badge/Threads-FF6F00?style=for-the-badge)
+
+![Sockets](https://img.shields.io/badge/Socket_Programming-0A66C2?style=for-the-badge)
+
+![Threads](https://img.shields.io/badge/Pthreads-FF6F00?style=for-the-badge)
+
 ![IPC](https://img.shields.io/badge/IPC-006400?style=for-the-badge)
+
 ![Memory Management](https://img.shields.io/badge/Memory_Management-8A2BE2?style=for-the-badge)
 
----
-
-## 🌐 Distributed Systems
-
-![CAP Theorem](https://img.shields.io/badge/CAP_Theorem-24292E?style=for-the-badge)
-![Raft](https://img.shields.io/badge/Raft-00599C?style=for-the-badge)
-![Paxos](https://img.shields.io/badge/Paxos-512BD4?style=for-the-badge)
-![Replication](https://img.shields.io/badge/Replication-FF6F00?style=for-the-badge)
-![Sharding](https://img.shields.io/badge/Sharding-0A66C2?style=for-the-badge)
-![Distributed Storage](https://img.shields.io/badge/Distributed_Storage-006400?style=for-the-badge)
-
----
-
-## ☁️ Cloud, DevOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
-
----
-
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-
----
-
-## 🤖 AI, ML & Computer Vision
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
-
----
-
-## 🔐 Security
-
-![Cryptography](https://img.shields.io/badge/Cryptography-24292E?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
-
----
-
-## ⚙️ Kernel & Compiler Engineering
-
-![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Device Drivers](https://img.shields.io/badge/Device_Drivers-24292E?style=for-the-badge)
 ![Compiler Design](https://img.shields.io/badge/Compiler_Design-00599C?style=for-the-badge)
-![Lexer](https://img.shields.io/badge/Lexer-512BD4?style=for-the-badge)
-![Parser](https://img.shields.io/badge/Parser-FF6F00?style=for-the-badge)
-![AST](https://img.shields.io/badge/AST-0A66C2?style=for-the-badge)
+
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-512BD4?style=for-the-badge)
+
+![Database Internals](https://img.shields.io/badge/Database_Internals-336791?style=for-the-badge)
 
 ---
 
-## 📌 Featured Projects
+# 🎯 Engineering Roadmap
 
-⭐ TrustVision
-⭐ Mini Shell
-⭐ HTTP Server in C
-⭐ Distributed KV Store
-⭐ Mini Compiler
-⭐ Tiny Kernel
-⭐ AI Agent Platform
+Kernel Engineering → Compiler Engineering → Database Engineering → Distributed Systems → Cloud Infrastructure → AI Infrastructure
 
 ---
 
-### 🎯 Goal
+# 📌 Flagship Projects
 
-**Systems Programming | Linux | Distributed Systems | AI Infrastructure Engineer**
+🚀 TrustVision
+
+🚀 Mini Shell
+
+🚀 HTTP Server
+
+🚀 Distributed KV Store
+
+🚀 Mini Compiler
+
+🚀 Tiny Kernel
+
+🚀 AI Agent Platform
+
+---
+
+# 🏆 Long Term Goal
+
+**AI Systems & Infrastructure Engineer**
+
+Specializing in:
+
+• Systems Programming
+
+• Linux Engineering
+
+• Distributed Systems
+
+• Database Internals
+
+• Cloud Infrastructure
+
+• AI Infrastructure
+
+• High Performance Computing
