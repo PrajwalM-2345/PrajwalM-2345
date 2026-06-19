@@ -5,17 +5,65 @@ Software Engineer | Systems Programming | Linux | AI Infrastructure
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=800&color=00C2FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Systems+Programming;Linux+Engineering;Distributed+Systems;Cloud+Infrastructure;Database+Internals;Kernel+Engineering;Compiler+Engineering;AI+Infrastructure" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=800&color=00C2FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Systems+Programming;Linux+Engineering;Distributed+Systems;Cloud+Infrastructure;Database+Internals;Kernel+Engineering;Compiler+Engineering;AI+Infrastructure" />
 </p>
 
 <p align="center">
-⚡ Building from Kernel → Cloud → AI
+  ⚡ Building from Kernel → Cloud → AI
 </p>
 
+<!-- Animated Wave Background -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PrajwalM-2345&theme=algolia&row=1&column=7" />
+  <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00C2FF;stop-opacity:0.8" />
+        <stop offset="50%" style="stop-color:#0077FF;stop-opacity:0.9" />
+        <stop offset="100%" style="stop-color:#00C2FF;stop-opacity:0.8" />
+      </linearGradient>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-100 0" dur="8s" repeatCount="indefinite"/>
+    </defs>
+    <path d="M0,60 C150,120 350,0 500,60 C650,120 850,0 1000,60 C1150,120 1200,60 1200,60 L1200,120 L0,120 Z" fill="url(#waveGradient)" opacity="0.3">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0,60 C150,120 350,0 500,60 C650,120 850,0 1000,60 C1150,120 1200,60 1200,60 L1200,120 L0,120 Z;M0,60 C150,0 350,120 500,60 C650,0 850,120 1000,60 C1150,0 1200,60 1200,60 L1200,120 L0,120 Z;M0,60 C150,120 350,0 500,60 C650,120 850,0 1000,60 C1150,120 1200,60 1200,60 L1200,120 L0,120 Z"/>
+    </path>
+  </svg>
 </p>
+
 ---
+
+<p align="center">
+  <a href="https://leetcode.com/UYOUR_LEETCODE_USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="50" height="50" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+  </a>
+</p>
+
+<!-- Glowing Animation for Icons -->
+<style>
+  a img {
+    transition: all 0.3s ease;
+    filter: drop-shadow(0 0 10px #00C2FF);
+  }
+  a:hover img {
+    transform: scale(1.2);
+    filter: drop-shadow(0 0 20px #00C2FF) drop-shadow(0 0 30px #0077FF);
+  }
+</style>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&border_color=00C2FF&icon_color=00C2FF" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=dark&border_color=00C2FF" alt="GitHub Repo"/>
+</p>
 
 # 🚀 Current Mission
 
