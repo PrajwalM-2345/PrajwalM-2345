@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Prajwal M</h1>
 
 <h3 align="center">
-Systems Programming • Linux Engineering • Distributed Systems • AI Infrastructure
+Software Engineer | Systems Programming | Linux | AI Infrastructure
 </h3>
 
 <p align="center">
-Building from Kernel to Cloud ☁️ | From Compiler to AI 🤖
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=800&color=00C2FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Systems+Programming;Linux+Engineering;Distributed+Systems;Cloud+Infrastructure;Database+Internals;Kernel+Engineering;Compiler+Engineering;AI+Infrastructure" />
 </p>
 
+<p align="center">
+⚡ Building from Kernel → Cloud → AI
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PrajwalM-2345&theme=algolia&row=1&column=7" />
+</p>
 ---
 
 # 🚀 Current Mission
