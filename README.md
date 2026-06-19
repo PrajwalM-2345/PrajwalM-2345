@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋 I'm Prajwal M
 
-<!--
-**PrajwalM-2345/PrajwalM-2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Systems Programming | Linux | Distributed Systems | AI Infrastructure
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- C Programming
+- DSA
+- Operating Systems
+- Computer Networks
+- Linux
+- Docker
+- TrustVision
+
+---
+
+## 💻 Languages
+
+C • C++ • Java • C# • Python • Bash • SQL
+
+---
+
+## 🖥️ Core CS
+
+DSA • DBMS • OS • CN • COA • System Design
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+Docker • Kubernetes • AWS • Linux
+
+---
+
+## 🤖 AI & Computer Vision
+
+OpenCV • PyTorch • TensorFlow • Transformers
+
+---
+
+## 📌 Major Projects
+
+- TrustVision
+- Mini Shell
+- HTTP Server
+- DSA Journey
