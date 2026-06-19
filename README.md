@@ -1,256 +1,172 @@
-# HERO SECTION
+# 🚀 Tech That I Know
 
-PRAJWAL M
+## 📚 Core Computer Science
 
-Systems Programming | Linux Engineering | Distributed Systems | AI Infrastructure
-
-Building software from Kernel to Cloud.
-
-[View Projects] [Download Resume] [GitHub]
-
----
-
-# ABOUT ME
-
-Computer Science Engineering Student passionate about:
-
-• Systems Programming
-
-• Linux
-
-• Distributed Systems
-
-• Cloud Infrastructure
-
-• Database Engineering
-
-• AI Infrastructure
-
-Currently building strong foundations in Computer Science while working on projects involving Operating Systems, Networking, Cloud Computing, Computer Vision and Blockchain.
+![DSA](https://img.shields.io/badge/DSA-24292E?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge)
+![CN](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge)
+![COA](https://img.shields.io/badge/COA-FF6F00?style=for-the-badge)
+![System\_Design](https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge)
 
 ---
 
-# TECH STACK
+## 💻 Languages
 
-## Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-C
-C++
-Java
-C#
-Python
-Bash
-SQL
+# 🐧 Operating Systems & Linux Ecosystem
 
----
+## Daily Drivers
 
-## Core Computer Science
+![Linux Mint 22.3 Cinnamon](https://img.shields.io/badge/Linux_Mint_22.3_Cinnamon-87CF3E?style=for-the-badge\&logo=linuxmint\&logoColor=white)
 
-Data Structures & Algorithms
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)
 
-Object Oriented Programming
-
-Operating Systems
-
-Computer Networks
-
-DBMS
-
-Computer Organization
-
-System Design
-
-Software Engineering
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
 ---
 
-## Systems Engineering
+## Linux Distributions Explored
 
-Linux
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge\&logo=linuxmint\&logoColor=white)
 
-System Programming
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
 
-POSIX
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge\&logo=debian\&logoColor=white)
 
-Sockets
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge\&logo=fedora\&logoColor=white)
 
-Multithreading
+![Red\_Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge\&logo=redhat\&logoColor=white)
 
-IPC
+![Arch\_Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge\&logo=archlinux\&logoColor=white)
 
-Memory Management
+![Kali\_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
 
-Kernel Fundamentals
-
-Compiler Fundamentals
+![Peppermint\_OS](https://img.shields.io/badge/Peppermint_OS-DA291C?style=for-the-badge)
 
 ---
 
-## Cloud & Infrastructure
+## Linux Administration
 
-Docker
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
 
-Kubernetes
+![Systemd](https://img.shields.io/badge/Systemd-000000?style=for-the-badge)
 
-AWS
+![Cron](https://img.shields.io/badge/Cron_Jobs-00599C?style=for-the-badge)
 
-CI/CD
+![Permissions](https://img.shields.io/badge/File_Permissions-228B22?style=for-the-badge)
 
-GitHub Actions
+![Networking](https://img.shields.io/badge/Linux_Networking-0A66C2?style=for-the-badge)
 
-Terraform
-
----
-
-## AI Infrastructure
-
-OpenCV
-
-PyTorch
-
-TensorFlow
-
-Transformers
-
-RAG
-
-Vector Databases
-
-AI Agents
+![Shell](https://img.shields.io/badge/Shell_Programming-4EAA25?style=for-the-badge)
 
 ---
 
-# OPERATING SYSTEMS LAB
+## Systems Programming
 
-Linux Mint Cinnamon
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
-Linux Mint XFCE
+![POSIX](https://img.shields.io/badge/POSIX-24292E?style=for-the-badge)
 
-Linux Mint MATE
+![Sockets](https://img.shields.io/badge/Socket_Programming-0A66C2?style=for-the-badge)
 
-Ubuntu
+![Threads](https://img.shields.io/badge/Pthreads-FF6F00?style=for-the-badge)
 
-Debian
+![IPC](https://img.shields.io/badge/IPC-006400?style=for-the-badge)
 
-Arch Linux
+![Memory\_Management](https://img.shields.io/badge/Memory_Management-8A2BE2?style=for-the-badge)
 
-Fedora
+---
+## 🖥️ Systems Programming
 
-RHEL
-
-Kali Linux
-
-Peppermint OS
-
-macOS
-
-Windows
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![System Programming](https://img.shields.io/badge/System_Programming-000000?style=for-the-badge)
+![Sockets](https://img.shields.io/badge/Sockets-0A66C2?style=for-the-badge)
+![Threads](https://img.shields.io/badge/Threads-FF6F00?style=for-the-badge)
+![IPC](https://img.shields.io/badge/IPC-006400?style=for-the-badge)
+![Memory Management](https://img.shields.io/badge/Memory_Management-8A2BE2?style=for-the-badge)
 
 ---
 
-# FEATURED PROJECTS
+## 🌐 Distributed Systems
 
-## TrustVision
-
-Computer Vision + Blockchain Powered Video Authentication
-
-Tech:
-
-Python
-OpenCV
-Deep Learning
-Blockchain
+![CAP Theorem](https://img.shields.io/badge/CAP_Theorem-24292E?style=for-the-badge)
+![Raft](https://img.shields.io/badge/Raft-00599C?style=for-the-badge)
+![Paxos](https://img.shields.io/badge/Paxos-512BD4?style=for-the-badge)
+![Replication](https://img.shields.io/badge/Replication-FF6F00?style=for-the-badge)
+![Sharding](https://img.shields.io/badge/Sharding-0A66C2?style=for-the-badge)
+![Distributed Storage](https://img.shields.io/badge/Distributed_Storage-006400?style=for-the-badge)
 
 ---
 
-## Mini Shell
+## ☁️ Cloud, DevOps & Infrastructure
 
-Custom Linux Shell implemented in C
-
-Concepts:
-
-Processes
-Fork
-Exec
-Signals
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
 
 ---
 
-## HTTP Server
+## 🗄️ Databases
 
-Multi-threaded HTTP Server
-
-Concepts:
-
-Sockets
-Threads
-Networking
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
 ---
 
-## Distributed KV Store
+## 🤖 AI, ML & Computer Vision
 
-Redis Inspired Database
-
-Concepts:
-
-Replication
-Storage
-Networking
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
 
 ---
 
-## Mini Compiler
+## 🔐 Security
 
-Lexer
-Parser
-AST
-
----
-
-## Tiny Kernel
-
-Kernel Experiments
-
-Memory Management
-
-Scheduling
+![Cryptography](https://img.shields.io/badge/Cryptography-24292E?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
 
 ---
 
-# LEARNING ROADMAP
+## ⚙️ Kernel & Compiler Engineering
 
-Programming → DSA → OS → Linux → CN → DBMS → System Design → Distributed Systems → Cloud → AI Infrastructure
-
----
-
-# GITHUB STATS
-
-Contribution Graph
-
-Top Languages
-
-GitHub Stats
+![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Device Drivers](https://img.shields.io/badge/Device_Drivers-24292E?style=for-the-badge)
+![Compiler Design](https://img.shields.io/badge/Compiler_Design-00599C?style=for-the-badge)
+![Lexer](https://img.shields.io/badge/Lexer-512BD4?style=for-the-badge)
+![Parser](https://img.shields.io/badge/Parser-FF6F00?style=for-the-badge)
+![AST](https://img.shields.io/badge/AST-0A66C2?style=for-the-badge)
 
 ---
 
-# CERTIFICATIONS
+## 📌 Featured Projects
 
-Linux
-
-Cloud
-
-AI/ML
-
-Cybersecurity
+⭐ TrustVision
+⭐ Mini Shell
+⭐ HTTP Server in C
+⭐ Distributed KV Store
+⭐ Mini Compiler
+⭐ Tiny Kernel
+⭐ AI Agent Platform
 
 ---
 
-# CONTACT
+### 🎯 Goal
 
-GitHub
-
-LinkedIn
-
-Email
-
+**Systems Programming | Linux | Distributed Systems | AI Infrastructure Engineer**
