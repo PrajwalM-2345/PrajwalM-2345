@@ -5,7 +5,6 @@
 </h1>
 
 <h3>Software Engineer | Systems Programming | Linux | AI Infrastructure</h3>
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=1000&lines=Systems+Programming;Linux+Engineering;Distributed+Systems;Cloud+Infrastructure;AI+Infrastructure" alt="Typing SVG" />
