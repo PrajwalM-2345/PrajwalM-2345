@@ -60,6 +60,16 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,c,cs,cpp,java,python,powershell,git,github,js,nodejs,react,html,css,docker,gcp,aws,kubernetes&perline=10" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,c,cs,cpp,java,python,powershell,git,github,js,nodejs,react,html,css,docker,gcp,aws,kubernetes&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blockchain-363636?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cryptography-002FA7?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 ---
 
 ## Linux Ecosystem
