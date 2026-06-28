@@ -57,7 +57,7 @@
 ## Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,python,git,github,js,nodejs,react,html,css,docker,gcp,aws,kubernetes,vim" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,c,csharp,cpp,java,python,shellscripting,powershell,git,github,js,nodejs,react,html,css,docker,gcp,aws,kubernetes,cryptography,bitcoin,metamask,blockchain" />
 </p>
 
 ---
