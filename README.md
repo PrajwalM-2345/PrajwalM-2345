@@ -113,15 +113,3 @@
 </p>
 
 ---
-==
-## Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrajwalM-2345&theme=onedark&row=1&column=6&margin-w=10&margin-h=10" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0B4F8A,100:061A2F&height=140&section=footer" />
-</div>
