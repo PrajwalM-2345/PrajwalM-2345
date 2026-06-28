@@ -83,9 +83,9 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
   <img src="https://img.shields.io/badge/Peppermint_OS-E51A1A?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Asahi_Linux-9A0056?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asahi_Linux-004099?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/EndeavourOS-7F3FBF?style=for-the-badge&logo=endeavouros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zorin_OS-0CC4E7?style=for-the-badge&logo=zorin&logoColor=white" />
 </p>
 
 ---
