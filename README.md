@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A2F,50:0B4F8A,100:00C2FF&height=190&section=header&text=Kernel+%E2%86%92+Cloud+%E2%86%92+AI&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="Banner" width="100%" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A2F,50:0B4F8A,100:00C2FF&animation=fadeIn" alt="Banner" width="100%" />
+</div>
 
-<h1>
-  Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="wave" width="38" height="38" />, I'm Prajwal M
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&duration=3000&pause=5000&color=00C2FF&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Prajwal+M" alt="Typography Banner" />
+</div>
 
 <h3>Software Engineer | Systems Programming | Linux | AI Infrastructure</h3>
 
@@ -52,16 +54,16 @@
 ## ⚙️ Core Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,c,cs,cpp,java,python,powershell,git,github,js,nodejs,react,html,css,docker,gcp,aws,kubernetes&perline=10" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,c,cs,cpp,java,python,powershell,git,github,js,nodejs,react,html,css,docker,gcp,aws,kubernetes,terraform,jenkins&perline=11" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Computer_Vision-00C2FF?style=for-the-badge&logo=opencv&logoColor=black" />
   <img src="https://img.shields.io/badge/Blockchain-363636?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
   <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" />
   <img src="https://img.shields.io/badge/Cryptography-002FA7?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
-
 <br>
 
 ## 🐧 Linux Ecosystem & Systems Engineering
@@ -110,4 +112,8 @@
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalM-2345&theme=transparent&hide_border=true&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A2F,50:0B4F8A,100:00C2FF&animation=fadeIn" alt="Banner" width="100%" />
 </div>
